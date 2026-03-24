@@ -1,6 +1,6 @@
 # Hi, I'm Jareth 👨‍💻
 
-Aspiring DevSec Engineer focused on cybersecurity, secure development, and building practical security tools.
+Aspiring DevSec Engineer building security-focused tools and learning how to break and secure systems.
 
 ---
 
@@ -15,8 +15,8 @@ Aspiring DevSec Engineer focused on cybersecurity, secure development, and build
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript (learning)
-* **Security:** Hashing, Basic Cryptography, OWASP Top 10 (in progress)
+* **Languages:** Python, JavaScript , C++
+* **Security:** Hashing, Basic Cryptography, OWASP Top 10 
 * **Tools:** Git, GitHub, Linux (learning)
 * **Other:** HTTP fundamentals, Networking basics
 
