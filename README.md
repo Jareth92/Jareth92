@@ -1,4 +1,4 @@
-# Hi, I'm Jareth 👨‍💻
+# Hi, I'm Jareth 
 
 Aspiring DevSec Engineer building security-focused tools and learning how to break and secure systems.
 
